@@ -16,7 +16,7 @@
 }
 
 #showcase .showcase-right {
-	margin-top: 90px;
+	margin-top: 250px;
 }
 
 #testimonial {
@@ -53,13 +53,17 @@
  }
 
  #contact {
-	background: url("https://i.imgur.com/NFcvPKd.jpg");
 	background-size: cover;
 	margin: 70px 0 55px 0;
 	padding: 70px;
 	color: #fff;
 	border-top: #333 7px solid;
 	border-bottom: #333 7px solid;
+ }
+
+ .contact-picture {
+	 margin-bottom: 25px;
+	 margin-left: 200px;
  }
 
  footer {
